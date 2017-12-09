@@ -25,7 +25,7 @@ SECRET_KEY = 'mdch#70w405)+6ql$!kp+p2)*dm%6*sqg47$c7)4)nyt)&c0p='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["ewelina4.pythonanywhere.com"]
+ALLOWED_HOSTS = ["ewelina4.pythonanywhere.com","127.0.0.1"]
 
 
 # Application definition
